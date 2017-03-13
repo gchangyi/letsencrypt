@@ -1,5 +1,6 @@
 # letsencrypt
-这是关于linux中获取/更新Let’s encrypt 证书的shell脚本。该脚本通过调用acme_tiny.py[acme-tiny](https://github.com/diafygi/acme-tiny) 认证、获取、更新证书，不需要额外的依赖。
+这是关于linux中获取/更新Let’s encrypt 证书的shell脚本。该脚本通过调用acme_tiny.py 认证、获取、更新证书，不需要额外的依赖。
+[acme-tiny](https://github.com/diafygi/acme-tiny) 
 
 # 使用方法
 + 1.克隆脚本到本地  
